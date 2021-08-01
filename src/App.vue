@@ -14,3 +14,9 @@ export default defineComponent({
   },
 })
 </script>
+
+<style>
+#app {
+  @apply antialiased text-center text-default m-16;
+}
+</style>

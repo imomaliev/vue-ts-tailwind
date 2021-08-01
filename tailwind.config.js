@@ -7,7 +7,7 @@ module.exports = {
       sans: ['Avenir', 'Helvetica', 'Arial', 'sans-serif'],
     },
     extend: {
-      colors: {
+      textColor: {
         'default': '#2c3e50'
       }
     },
