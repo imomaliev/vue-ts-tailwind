@@ -33,6 +33,10 @@
     <a href="https://jestjs.io/docs/getting-started" target="_blank"
       >Jest Docs</a
     >
+    |
+    <a href="https://tailwindcss.com/docs/installation" target="_blank"
+      >TailwindCSS Docs</a
+    >
   </p>
 
   <button type="button" @click="count++">count is: {{ count }}</button>
