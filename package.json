@@ -1,0 +1,36 @@
+{
+  "name": "vite-vue-typescript-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "deploy": "vue-tsc --noEmit && vite build --base '/vue-ts/'",
+    "serve": "vite preview",
+    "format": "prettier --write .",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue",
+    "test": "jest"
+  },
+  "dependencies": {
+    "vue": "^3.1.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@typescript-eslint/eslint-plugin": "^4.28.5",
+    "@typescript-eslint/parser": "^4.28.5",
+    "@vitejs/plugin-vue": "^1.3.0",
+    "@vue/compiler-sfc": "^3.1.5",
+    "@vue/test-utils": "^2.0.0-rc.12",
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jest": "^24.4.0",
+    "eslint-plugin-vue": "^7.14.0",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.4",
+    "typescript": "^4.3.5",
+    "vite": "^2.4.4",
+    "vue-eslint-parser": "^7.9.0",
+    "vue-tsc": "^0.2.2",
+    "vue3-jest": "^27.0.0-alpha.2"
+  }
+}
