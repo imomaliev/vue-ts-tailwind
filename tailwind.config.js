@@ -8,7 +8,8 @@ module.exports = {
     },
     extend: {
       textColor: {
-        'default': '#2c3e50'
+        'default': '#2c3e50',
+        'link': '#42b983'
       }
     },
   },

@@ -65,7 +65,7 @@ export default defineComponent({
 
 <style scoped>
 a {
-  color: #42b983;
+  @apply text-link;
 }
 
 label {
