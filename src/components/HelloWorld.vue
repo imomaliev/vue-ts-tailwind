@@ -68,15 +68,7 @@ a {
   @apply text-link;
 }
 
-label {
-  margin: 0 0.5em;
-  font-weight: bold;
-}
-
 code {
-  background-color: #eee;
-  padding: 2px 4px;
-  border-radius: 4px;
-  color: #304455;
+  @apply bg-code py-0.5 px-1 text-code;
 }
 </style>
