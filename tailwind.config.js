@@ -6,7 +6,11 @@ module.exports = {
     fontFamily: {
       sans: ['Avenir', 'Helvetica', 'Arial', 'sans-serif'],
     },
-    extend: {},
+    extend: {
+      colors: {
+        'default': '#2c3e50'
+      }
+    },
   },
   variants: {
     extend: {},
