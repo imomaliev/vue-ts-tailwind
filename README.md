@@ -1,9 +1,9 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/imomaliev/vue-ts-tailwind/main.svg)](https://results.pre-commit.ci/latest/github/imomaliev/vue-ts-tailwind/main)
 ![ci](https://github.com/imomaliev/vue-ts-tailwind/actions/workflows/ci.yml/badge.svg)
 
-# Vue 3 + Typescript + Vite + Jest + Tailwind
+# Vue 3 + Typescript + Vite + Jest + TailwindCSS
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+This template should help get you started developing with Vue 3, Typescript and TailwindCSS in Vite.
 
 ## Project setup
 
