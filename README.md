@@ -87,4 +87,4 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 
 ## About
 
-This project is created as a part of a [dev.to](https://dev.to) series [Creating vite vue ts template](https://dev.to/imomaliev/series/13845).
+This project is created as a part of a [dev.to](https://dev.to) series [Vite vue ts tailwind template](https://dev.to/imomaliev/series/13950).
