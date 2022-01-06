@@ -11,7 +11,7 @@ $ git log --oneline HEAD ^71042f0
 # 350e1a0 Merge pull request #4 from imomaliev/create-vite-08471ef6-9ad7c55d
 # edb9c0a use default ordering for listing create-vite patches
 # e8fcf7e create-vite-patch: 64b15950 chore(create-vite): add more gitignore (#6247)
-# 920de19 create-vite-patch: 71868579 chore: prefer type imports (#5835)
+920de19 create-vite-patch: 71868579 chore: prefer type imports (#5835)
 50dedbc create-vite-patch: 22873a7d refactor: normalize scripts and commands naming (#5207)
 70cf535 create-vite-patch: a2be9c11 feat(create-vite): update vue templates
 d12abe2 create-vite-patch: 5bc0ffc1 chore: recommend volar vscode extension (#4842)
