@@ -16,7 +16,7 @@ $ git log --oneline HEAD ^71042f0
 # 70cf535 create-vite-patch: a2be9c11 feat(create-vite): update vue templates
 # d12abe2 create-vite-patch: 5bc0ffc1 chore: recommend volar vscode extension (#4842)
 # b53c996 create-vite-patch: fe74173f feat: explicit set `useDefineForClassFields` in ts templates (#4280)
-# 380749c fix: error  'defineProps' is not defined  no-undef
+380749c fix: error  'defineProps' is not defined  no-undef
 af4c2e1 chore: Update deps
 33ac976 create-vite-patch: 87a9a70f feat(create-vite): update vue templates
 f24cce4 Add included_patches.md to track list of create-vite patches
