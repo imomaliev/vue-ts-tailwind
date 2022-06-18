@@ -14,8 +14,8 @@ b3844e9 update included patches and fix typo in README.md
 -b3fe622 update typescript
 -4a39332 update vue and @vue/test-utils
 -95e07f1 update vite and vue-tsc
--8cfe052 Merge pull request #6 from imomaliev/pre-commit-ci-update-config
--958afce [pre-commit.ci] pre-commit autoupdate
+8cfe052 Merge pull request #6 from imomaliev/pre-commit-ci-update-config
+958afce [pre-commit.ci] pre-commit autoupdate
 549c234 apply changes to template from vite@2.9.12
 85e886e npx browserslist@latest --update-db
 096c25b fix package-lock.json is out of date
