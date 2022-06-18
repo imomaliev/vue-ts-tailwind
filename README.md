@@ -1,5 +1,5 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/imomaliev/vue-ts-tailwind/main.svg)](https://results.pre-commit.ci/latest/github/imomaliev/vue-ts-tailwind/main)
-![ci](https://github.com/imomaliev/vue-ts-tailwind/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/imomaliev/vue-ts-tailwind/actions/workflows/ci.yaml/badge.svg)
 
 # Vue 3 + TypeScript + Vite + Jest + TailwindCSS
 
@@ -7,7 +7,7 @@ This template should help get you started developing with Vue 3, TypeScript and 
 
 ## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+-   [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 ## Type Support For `.vue` Imports in TS
 
