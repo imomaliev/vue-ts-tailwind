@@ -11,7 +11,7 @@ b3844e9 update included patches and fix typo in README.md
 -93e9159 port library-template configurations
 -40ba55c Merge pull request #9 from imomaliev/feat/update-deps
 -3b1a2b6 update jest
--045aa35 update eslint and prettier
+045aa35 update eslint and prettier
 b3fe622 update typescript
 4a39332 update vue and @vue/test-utils
 95e07f1 update vite and vue-tsc
