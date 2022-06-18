@@ -4,6 +4,7 @@
 
 ```console
 $ git log --oneline HEAD ^71042f0
+ca3834e allow updating @vue/test-utils minor versions
 b3844e9 update included patches and fix typo in README.md
 -6d55683 fix badge path
 -43f06db skip terraform hooks in pre-commit.ci
@@ -12,7 +13,7 @@ b3844e9 update included patches and fix typo in README.md
 -3b1a2b6 update jest
 -045aa35 update eslint and prettier
 -b3fe622 update typescript
--4a39332 update vue and @vue/test-utils
+4a39332 update vue and @vue/test-utils
 95e07f1 update vite and vue-tsc
 8cfe052 Merge pull request #6 from imomaliev/pre-commit-ci-update-config
 958afce [pre-commit.ci] pre-commit autoupdate
