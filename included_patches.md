@@ -4,6 +4,25 @@
 
 ```console
 $ git log --oneline HEAD ^71042f0
+b3844e9 update included patches and fix typo in README.md
+-6d55683 fix badge path
+-43f06db skip terraform hooks in pre-commit.ci
+-93e9159 port library-template configurations
+-40ba55c Merge pull request #9 from imomaliev/feat/update-deps
+-3b1a2b6 update jest
+-045aa35 update eslint and prettier
+-b3fe622 update typescript
+-4a39332 update vue and @vue/test-utils
+-95e07f1 update vite and vue-tsc
+-8cfe052 Merge pull request #6 from imomaliev/pre-commit-ci-update-config
+-958afce [pre-commit.ci] pre-commit autoupdate
+549c234 apply changes to template from vite@2.9.12
+85e886e npx browserslist@latest --update-db
+096c25b fix package-lock.json is out of date
+0b85fa3 Merge pull request #8 from imomaliev/dependabot/npm_and_yarn/nanoid-3.3.2
+2bc0e7f chore(deps): bump nanoid from 3.1.30 to 3.3.2
+2be5734 Merge pull request #7 from imomaliev/dependabot/npm_and_yarn/minimist-1.2.6
+ce1e7fc chore(deps): bump minimist from 1.2.5 to 1.2.6
 683a720 fix: package.json test-utils version
 7e654e1 fix deploy workflow not running after ci workflow
 a9d2625 Merge pull request #5 from imomaliev/split-github-workflow
