@@ -9,8 +9,8 @@ b3844e9 update included patches and fix typo in README.md
 -6d55683 fix badge path
 -43f06db skip terraform hooks in pre-commit.ci
 -93e9159 port library-template configurations
--40ba55c Merge pull request #9 from imomaliev/feat/update-deps
--3b1a2b6 update jest
+40ba55c Merge pull request #9 from imomaliev/feat/update-deps
+3b1a2b6 update jest
 045aa35 update eslint and prettier
 b3fe622 update typescript
 4a39332 update vue and @vue/test-utils
